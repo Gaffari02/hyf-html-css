@@ -1,0 +1,71 @@
+body { background-color: rgb(39, 121, 168);}
+
+h1 { font-family: fantasy;
+  font-weight: bold;
+  font-style: italic;
+  color: white;
+  
+}
+.name-job {
+    position: absolute;
+    left: 40%;
+     color: white;
+}
+
+#job {
+    font-family: fantasy;
+  font-weight: bold;
+  font-style: italic;
+   color: white;
+ 
+}
+
+.bottomline { 
+    border: 3px solid black;
+}
+
+.categories {
+    background: rgb(152, 200, 228);
+    border: 5px dotted black;
+    margin-top: 20px;
+    width: 70%;
+    height: 150px;
+    overflow: auto;
+    
+}
+
+.personal-information {
+    position: relative;
+    left: 80%;
+    bottom: 180px;
+     color: white;
+}
+
+#about-box {
+    width: 20%;
+    height: 470px;
+    position: absolute;
+    left: 75%
+  
+   
+}
+
+#working-box {
+       position: relative;
+    
+}
+#education-box {
+   position: relative;  
+    
+}
+
+#skills-box { 
+    position: relative;
+
+    }
+
+    #about-me {
+        font-family: fantasy;
+        font-weight: bold;
+        font-style: italic;
+  }
